@@ -1,0 +1,3 @@
+MD 101    Empolyee
+Ali   102	nonempolyee
+Hadi 103 	-------
